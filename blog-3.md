@@ -1,3 +1,7 @@
+<p style="padding: 10px;">
+  <img src="https://i.postimg.cc/6p0SN0V9/type-guards-in-ts-thumbnail.png" alt="Type Guards in TypeScript" style="border-radius: 5%; display: block; margin: auto;">
+</p>
+
 # Why Are Type Guards Necessary? Exploring Various Types and Their Use Cases
 
 In TypeScript, type safety helps ensure our code works correctly. But sometimes, we need extra checks when dealing with dynamic data, like API responses. This is where type guards come in. They help us check types at runtime, making our code safer and easier to understand.
