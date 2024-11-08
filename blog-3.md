@@ -1,4 +1,4 @@
-<p style="padding: 10px;">
+<p style="padding: 10px; text-align: center;">
   <img src="https://i.postimg.cc/6p0SN0V9/type-guards-in-ts-thumbnail.png" alt="Type Guards in TypeScript" style="border-radius: 5%; display: block; margin: auto;">
 </p>
 
